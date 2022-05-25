@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chaochun Li.
+- 👋 Hi, I’m Cc Li.
 - 👀 I’m interested in machine learning、statistics.
 - 🌱 I’m currently learning data science related theoretical knowledge and engineering practice.
 - 💞️ I’m looking to collaborate on data science related programs.
