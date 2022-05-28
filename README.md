@@ -5,7 +5,7 @@
 - 📫 How to reach me? You can email to lichaochun93@foxmail.com.
 
 
-- My personal homepage: licc22.github.io
+- My personal homepage: github.com/licc22/
 <!---
 licc22/licc22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
