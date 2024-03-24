@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cc Li.
-- 👀 I’m interested in machine learning、statistics.
-- 🌱 I’m currently learning data science related theoretical knowledge and engineering practice.
-- 💞️ I’m looking to collaborate on data science related programs.
+- 👀 I’m interested in machine learning、software develop.
+- 🌱 I’m currently learning software development related theoretical knowledge and engineering practice.
+- 💞️ I’m looking to collaborate on software development related programs.
 - 📫 How to reach me? You can email to lichaochun93@foxmail.com.
 
 
